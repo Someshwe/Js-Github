@@ -58,3 +58,9 @@ Push :-
         -- after that the files and code will be merged with both master and main brnach. 
 
 
+--separate branch : (day1Branch)
+   - Command :-
+      >> git checkout -b "BranchName" (For creating a new Branch)
+      >> 
+   
+
