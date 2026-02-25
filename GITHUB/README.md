@@ -21,14 +21,14 @@ GitPod
 
 -- For 1st time need to configure github in our system
 
-   >>' git config --global user.name "Someshwe" '
-   >>' git config --global user.email "someshbehera2007@gmail.com" '
+   >>' git config --global user.name "Github User_Name" '
+   >>' git config --global user.email "YOUR_MAIL" '
    >>' git config --global color.ui auto '
 
 
 Mandatory Commands:
    >> git init
-   >> git remote add origin https://github.com/Someshwe/Js-Github.git  (For making connection between remote server to local)
+   >> git remote add origin https://Repo-URL.git  (For making connection between remote server to local)
 
 
 Pull Request :-
@@ -58,3 +58,12 @@ Push :-
         -- after that the files and code will be merged with both master and main brnach. 
 
 
+--separate branch :- (day1Branch)
+   - Command :-
+      >> git checkout -b "BranchName" (For creating a new Branch)
+   
+-- Switch Branch :-
+   >> git checkout "BranchName you want to switch" (for switch one branch to another)
+
+-- Clone the Repo :-
+   >> git clone "https://URL" (to clone the other Repositire).
